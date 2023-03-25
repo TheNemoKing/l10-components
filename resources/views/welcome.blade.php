@@ -1,4 +1,4 @@
-<h1>Anonymous components</h1>
+{{-- <h1>Anonymous components</h1>
 <x-layout>
   <x-section>
     Hello world 1x!
@@ -20,4 +20,5 @@
   <x-alert title="Information" message="Everything is OK." type="success">
     <a href="#" class="text-blue-700 underline">Success weblink</a>
   </x-alert>
-</div>
+</div> --}}
+<x-layout/>
